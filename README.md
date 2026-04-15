@@ -1,0 +1,2 @@
+# 16-Bit-Arithmetic-and-Logic-Unit-Design-and-FPGA-implementation
+A 16-bit ALU is designed using Verilog HDL and implemented on an Xilinx XC7A35T FPGA. The design is functionally verified through simulation and then deployed on FPGA hardware. It performs various arithmetic and logical operations efficiently, demonstrating correct functionality and suitability for digital systems and processor-based applications.
