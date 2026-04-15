@@ -1,13 +1,13 @@
 
-# ⚙️ 16-Bit Arithmetic and Logic Unit (ALU) – FPGA Implementation
+#  16-Bit Arithmetic and Logic Unit (ALU) – FPGA Implementation
 
-## 🔹 Description
+##  Description
 
 A 16-bit Arithmetic Logic Unit (ALU) is designed using Verilog HDL and implemented on the Xilinx XC7A35T FPGA. The design is functionally verified through simulation and then deployed on FPGA hardware, ensuring correct operation and reliable performance.
 
 ---
 
-## 🔹 Features
+##  Features
 
 * 16-bit data processing
 * Supports arithmetic and logical operations
@@ -16,7 +16,7 @@ A 16-bit Arithmetic Logic Unit (ALU) is designed using Verilog HDL and implement
 
 ---
 
-## 🔹 Operations Supported
+##  Operations Supported
 
 * Addition
 * Subtraction
@@ -28,14 +28,14 @@ A 16-bit Arithmetic Logic Unit (ALU) is designed using Verilog HDL and implement
 
 ---
 
-## 🔹 Tools Used
+##  Tools Used
 
 * Xilinx Vivado
 * Verilog HDL
 
 ---
 
-## 🔹 Simulation
+##  Simulation
 
 The design is verified using testbench simulations to ensure correct functionality before FPGA implementation.
 
@@ -44,13 +44,13 @@ The design is verified using testbench simulations to ensure correct functionali
 
 ---
 
-## 🔹 FPGA Implementation
+##  FPGA Implementation
 
 The ALU is successfully synthesized and implemented on the Xilinx XC7A35T FPGA, validating real-time hardware performance.
 
 ---
 
-## 🔹 Applications
+##  Applications
 
 * Processor design
 * Embedded systems
@@ -58,6 +58,6 @@ The ALU is successfully synthesized and implemented on the Xilinx XC7A35T FPGA, 
 
 ---
 
-## 🔹 Author
+##  Author
 
 **Milan Singh Rathore**
