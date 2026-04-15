@@ -24,6 +24,7 @@ A 16-bit Arithmetic Logic Unit (ALU) is designed using Verilog HDL and implement
 * AND, OR
 * NOT operation
 * Comaprison
+* Flags: Carry, Zero and Overflow Flag
 
 ---
 
